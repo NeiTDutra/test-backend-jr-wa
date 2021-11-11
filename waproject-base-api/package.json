@@ -59,7 +59,7 @@
     "mailgun-js": "0.22.0",
     "morgan": "1.9.1",
     "nest-router": "1.0.9",
-    "objection": "2.0.7",
+    "objection": "2.2.16",
     "password-generator": "2.2.3",
     "pg": "7.14.0",
     "pug": "3.0.1",
